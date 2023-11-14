@@ -15,6 +15,7 @@
 		6C5CDC5A2B026EAD003CF707 /* MyMusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5CDC592B026EAD003CF707 /* MyMusicUITests.swift */; };
 		6C5CDC5C2B026EAD003CF707 /* MyMusicUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5CDC5B2B026EAD003CF707 /* MyMusicUITestsLaunchTests.swift */; };
 		6C5CDC692B027857003CF707 /* SoundPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5CDC682B027857003CF707 /* SoundPlayer.swift */; };
+		6C5CDC6B2B03790F003CF707 /* BackgroundModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6C5CDC6A2B03790F003CF707 /* BackgroundModifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		6C5CDC592B026EAD003CF707 /* MyMusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicUITests.swift; sourceTree = "<group>"; };
 		6C5CDC5B2B026EAD003CF707 /* MyMusicUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyMusicUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		6C5CDC682B027857003CF707 /* SoundPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPlayer.swift; sourceTree = "<group>"; };
+		6C5CDC6A2B03790F003CF707 /* BackgroundModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundModifier.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				6C5CDC3E2B026EAC003CF707 /* MyMusicApp.swift */,
 				6C5CDC402B026EAC003CF707 /* ContentView.swift */,
+				6C5CDC6A2B03790F003CF707 /* BackgroundModifier.swift */,
 				6C5CDC682B027857003CF707 /* SoundPlayer.swift */,
 				6C5CDC422B026EAD003CF707 /* Assets.xcassets */,
 				6C5CDC442B026EAD003CF707 /* Preview Content */,
@@ -262,6 +265,7 @@
 			files = (
 				6C5CDC412B026EAC003CF707 /* ContentView.swift in Sources */,
 				6C5CDC692B027857003CF707 /* SoundPlayer.swift in Sources */,
+				6C5CDC6B2B03790F003CF707 /* BackgroundModifier.swift in Sources */,
 				6C5CDC3F2B026EAC003CF707 /* MyMusicApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
